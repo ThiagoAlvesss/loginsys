@@ -2,4 +2,4 @@
 
 ## Sistema de login PHP 
 
-O projeto abaixo é um exemplo de um sistema de login em php
+O projeto em questão é um exemplo de um sistema de login em php
